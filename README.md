@@ -1,4 +1,4 @@
-# <span style="color: #00FF00;">Hello</span>, I'm **Pranav Kokate** 👋
+# Hello, I'm **Pranav Kokate** 👋
 
 A dedicated software developer with expertise in building scalable and efficient applications. I specialize in modern web technologies and am passionate about continuous learning and contributing to impactful projects.
 
@@ -18,16 +18,13 @@ A dedicated software developer with expertise in building scalable and efficient
 - **[Another Project](link)**: A comprehensive tool for [purpose], built with [technologies used].
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&text_color=FFFFFF&icon_color=FF5733)
 
 
 ## 🌟 Open Source Contributions
 - **[Repository Name](link)**: Enhanced functionality and contributed bug fixes.
 - **[Project Name](link)**: Improved documentation and added new features.
 
-## 📚 Current Learning & Future Goals
-- **Currently Learning**: Advanced TypeScript and Machine Learning techniques.
-- **Future Goals**: Contribute to large-scale open source projects and achieve expertise in Kubernetes for container orchestration.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
