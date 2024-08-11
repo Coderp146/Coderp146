@@ -1,4 +1,4 @@
-# Hello, I'm **Pranav Kokate**
+# <span style="color: #00FF00;">Hello</span>, I'm **Pranav Kokate** 👋
 
 A dedicated software developer with expertise in building scalable and efficient applications. I specialize in modern web technologies and am passionate about continuous learning and contributing to impactful projects.
 
