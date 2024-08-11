@@ -1,68 +1,30 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Header Image" width="800" height="400">
-</p>
+# Hi, I'm Pranav Kokate
 
-# Hi there, I'm [Your Name] 👋
+I'm a software developer focused on building efficient and scalable applications.
 
-I'm a passionate Full Stack Developer with expertise in building dynamic and responsive websites and applications. My tech stack includes HTML, CSS, JavaScript, Flutter, React, and React Native. I enjoy turning ideas into reality through code and creating seamless user experiences.
+## Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- GitHub Stats and Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues,prs&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
-## 🚀 Skills
+## Selected Projects
+- **[Project Name](link)**: A brief, one-line description of the project.
+- **[Another Project](link)**: Another concise description.
 
-- **Frontend:** HTML, CSS, JavaScript, React, React Native
-- **Backend:** Node.js
-- **Mobile:** Flutter
-- **Database:** MongoDB, Firebase
-- **Tools:** Git, VSCode, npm, Yarn
 
-## 🌱 Projects
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=false&text_color=FFFFFF&icon_color=FFFFFF)
 
-Here are some projects I've worked on:
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
 
-- [Project 1](#) - Brief description
-- [Project 2](#) - Brief description
-- [Project 3](#) - Brief description
-
-Explore more on my [GitHub repositories](https://github.com/your-username).
-
-## 🔧 Technologies & Tools
-
-<!-- Badges for Technologies -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-16.8+-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-0.64+-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Flutter-2.0+-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-## 📷 Screenshots
-
-<!-- Screenshots or GIFs of your projects -->
-<p align="center">
-  <img src="https://your-screenshot-url.com/screenshot1.png" alt="Project 1" width="400" height="200">
-  <img src="https://your-screenshot-url.com/screenshot2.png" alt="Project 2" width="400" height="200">
-</p>
-
-## 🤝 Let's Connect
-
-<!-- Social Media Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-</p>
-
-## 🎉 Thanks for visiting!
-
-Feel free to explore my repositories and connect with me. Let's collaborate and build amazing things together!
+---
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
