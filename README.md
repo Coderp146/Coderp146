@@ -18,7 +18,8 @@ A dedicated software developer with expertise in building scalable and efficient
 - **[Another Project](link)**: A comprehensive tool for [purpose], built with [technologies used].
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&card_width=400)
+
 
 ## 🌟 Open Source Contributions
 - **[Repository Name](link)**: Enhanced functionality and contributed bug fixes.
