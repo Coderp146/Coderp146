@@ -13,17 +13,12 @@ A dedicated software developer with expertise in building scalable and efficient
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🚀 Selected Projects
+## 🌟 Selected Projects
 - **[Project Name](link)**: An innovative solution for [specific problem], leveraging [technologies used].
 - **[Another Project](link)**: A comprehensive tool for [purpose], built with [technologies used].
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&text_color=FFFFFF&icon_color=FF5733)
-
-
-## 🌟 Open Source Contributions
-- **[Repository Name](link)**: Enhanced functionality and contributed bug fixes.
-- **[Project Name](link)**: Improved documentation and added new features.
 
 
 ## 🌐 Connect with Me
